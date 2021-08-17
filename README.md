@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Johanfer12
 - 👀 I’m interested in automation.
 - 🌱 I’m currently learning Python
+- 🌱 Also currently learning Java
 - 📫 How to reach me @Nentiendo in Twitter
 
 <!---
