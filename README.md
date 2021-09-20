@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation.
 - 🌱 I’m currently learning Python
 - 🌱 Also currently learning Java
-- 📫 How to reach me @Nentiendo in Twitter
+- 📫 How to reach me: @Nentiendo in Twitter
 
 <!---
 Johanfer12/Johanfer12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
