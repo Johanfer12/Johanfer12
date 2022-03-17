@@ -2,6 +2,7 @@
 - 👀 I’m interested in automation.
 - 🌱 I’m currently learning Python
 - 🌱 Also currently learning Java
+- 🌱 SQL too!
 - 📫 How to reach me: @Nentiendo in Twitter
 
 <!---
