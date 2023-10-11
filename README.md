@@ -5,7 +5,7 @@
 - 🌱 SQL too!
 - 📫 How to reach me: [@Nentiendo](https://twitter.com/Nentiendo) on Twitter
 
-# About Me
+# About Me #
 
 I am a developer with experience in various technologies and frameworks. Here are some repositories that showcase my skills:
 
@@ -13,7 +13,7 @@ I am a developer with experience in various technologies and frameworks. Here ar
 
 - **[Weather_View](https://github.com/johanfer12/Weather_View)** : In this project, you'll find some of my code for building Shiny R applications. I have expertise in developing data-driven web applications using Shiny, along with libraries like ggplot2, dplyr, and plotly. (In Development)
 
-- **[johanfer12.github.io](https://github.com/johanfer12/johanfer12.github.io)** : This repo contains my personal portfolio website. I have built it using HTML, CSS, and JavaScript. I focus on creating simple, intuitive, and responsive user interfaces that provide a great user experience.
+- **[johanfer12.github.io](https://github.com/johanfer12/johanfer12.github.io)** : This repo contains my personal portfolio [website](https://johanfer12.github.io). I have built it using HTML, CSS, and JavaScript. I focus on creating simple, intuitive, and responsive user interfaces that provide a great user experience.
 
 - **[Buscatrabajo](https://github.com/johanfer12/Buscatrabajo)** : This code imports necessary modules for web scraping and automation using Selenium and ChromeDriverManager, and also imports modules for text manipulation and web browsing. It can be used to automate web tasks and scrape data from websites.
   
