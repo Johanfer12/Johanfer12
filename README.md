@@ -11,6 +11,8 @@ I am a developer with experience in various technologies and frameworks. Here ar
 
 - **[JohanferDash](https://github.com/johanfer12/JohanferDash)** : Work on a dashboard project using the Dash framework. I have experience in creating interactive and responsive web applications using Dash.
 
+- - **[Buscatrabajo](https://github.com/johanfer12/django-ask-gpt)** : This Django model enhances your document interaction and search by integrating OpenAI's text embedding and GPT-3.5-turbo chat completion models. It simplifies querying a collection of precomputed text embeddings and generating responses using GPT-3.5-turbo.
+
 - **[Weather_View](https://github.com/johanfer12/Weather_View)** : In this project, you'll find some of my code for building Shiny R applications. I have expertise in developing data-driven web applications using Shiny, along with libraries like ggplot2, dplyr, and plotly. (In Development)
 
 - **[johanfer12.github.io](https://github.com/johanfer12/johanfer12.github.io)** : This repo contains my personal portfolio [website](https://johanfer12.github.io). I have built it using HTML, CSS, and JavaScript. I focus on creating simple, intuitive, and responsive user interfaces that provide a great user experience.
