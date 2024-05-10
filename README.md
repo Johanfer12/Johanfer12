@@ -9,6 +9,8 @@
 
 I am a developer with experience in various technologies and frameworks. Here are some repositories that showcase my skills:
 
+- **[www.johanfer.com](https://github.com/johanfer12/My_Bookshelf)** : My Read Books website. Django is used to create the web application and a Python script for scraping information that is saved in a database.
+
 - **[JohanferDash](https://github.com/johanfer12/JohanferDash)** : Work on a dashboard project using the Dash framework. I have experience in creating interactive and responsive web applications using Dash.
 
 - **[Ask your Docs](https://github.com/johanfer12/django-ask-gpt)** : This Django model enhances your document interaction and search by integrating OpenAI's text embedding and GPT-3.5-turbo chat completion models. It simplifies querying a collection of precomputed text embeddings and generating responses using GPT-3.5-turbo.
