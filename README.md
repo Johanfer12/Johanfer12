@@ -9,7 +9,7 @@
 
 I am a developer with experience in various technologies and frameworks. Here are some repositories that showcase my skills:
 
-- **[www.johanfer.com](https://github.com/johanfer12/johanfer.com)** : My read books and music website. Django is used to create the web application, a Python script for scraping and use of Spotify API information that is saved in a database.
+- **[www.johanfer.com](https://github.com/johanfer12/johanfer.com)** : My read books and music [website](https://johanfer.com). Django is used to create the web application, a Python script for scraping and use of Spotify API information that is saved in a database.
 
 - **[JohanferDash](https://github.com/johanfer12/JohanferDash)** : Work on a dashboard project using the Dash framework. I have experience in creating interactive and responsive web applications using Dash.
 
